@@ -75,6 +75,8 @@ experiences:
          - Set up the architecture of end to end data pipeline.
          - Supervised the development and deployment of various machine learning models.
          - Supervised the development of complex reporting dashboards for business stakeholders.
+         
+         Tools: SQL, Python, pandas, matplotlib, sklearn, Airflow, Spark, Hive, Presto, Redash, Tableau, Qubole, AWS.
     - role: Senior Data Scientist
       time: 2019 - 2020
       company: Bukalapak, Jakarta, Indonesia
@@ -85,7 +87,8 @@ experiences:
          - Created and maintained high level monitoring dashboard for stakeholders.
          - Developed data warehouse pipeline for critical metrics.
          - Carried out data pipeline migration to Google BigQuery.
-    - role: Lead Data Scientist
+         
+         Tools: SQL, Python, pandas, numpy, matplotlib, sklearn, networkx, Airflow, Spark, Hive, Presto, Redash, Tableau, Looker, BigQuery.    - role: Lead Data Scientist
       time: 2018 - 2019
       company: Bukalapak, Jakarta, Indonesia
       details: |
@@ -97,12 +100,16 @@ experiences:
          - Flagged fraud transactions using network analysis and various anomaly detection techniques.
          - Optimized budgets for Bukalapak digital channel ads.
          - Optimized Bukalapak product feeds in Facebook and Google Shopping to maximize conversion rate.
+         
+         Tools: SQL, Python, pandas, numpy, matplotlib, sklearn, networkx, Airflow, Presto, Redash, Tableau.
     - role: Data Scientist
       time: 2018 - 2018
       company: Bukalapak, Jakarta, Indonesia
       details: |
           - Queried data and carried out adhoc data analysis requests.
           - Created dashboards for high level data monitoring.
+          
+          Tools: SQL, Python, pandas, numpy, matplotlib, Presto, Redash
     - role: Research Assistant
       time: 2010 - 2017
       company: University of Delaware, Newark DE, USA
@@ -128,6 +135,8 @@ experiences:
           script.
           - Published results in peer-reviewed scientific journals.
           - Presented posters and talks in American Physical Society (APS) conferences.
+          
+          Tools: Fortran, C++, Python, shell script, LaTeX, gnuplot, Inkscape, GIMP. 
     - role: Teaching Assistant
       time: 2010 - 2017
       company: University of Delaware, Newark DE, USA
@@ -136,50 +145,29 @@ experiences:
           - Assisted students to solve physics problems at undergraduate levels.
           - Assisted students in obtaining data from basic physics experiments and analyze them with 
           basic statistical techniques such as error analysis and linear regression.
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          
+          Tools: Mathematics, Physics, Statistics, Microsoft Office.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        detail: blablabla
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Mathematics &amp; Statistics
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Programming
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Big Data
+        level: 80%
+
+      - name: Data Analysis
+        level: 95%
+
+      - name: Data Visualization
+        level: 95%
+
+      - name: Machine Learning
+        level: 90%
 
 footer: 
