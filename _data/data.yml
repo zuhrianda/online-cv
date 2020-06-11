@@ -88,7 +88,9 @@ experiences:
          - Developed data warehouse pipeline for critical metrics.
          - Carried out data pipeline migration to Google BigQuery.
          
-         Tools: SQL, Python, pandas, numpy, matplotlib, sklearn, networkx, Airflow, Spark, Hive, Presto, Redash, Tableau, Looker, BigQuery.    - role: Lead Data Scientist
+         Tools: SQL, Python, pandas, numpy, matplotlib, sklearn, networkx, Airflow, Spark, Hive, Presto, Redash,
+         Tableau, Looker, BigQuery.
+    - role: Lead Data Scientist
       time: 2018 - 2019
       company: Bukalapak, Jakarta, Indonesia
       details: |
