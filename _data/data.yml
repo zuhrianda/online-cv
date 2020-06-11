@@ -69,73 +69,69 @@ education:
 experiences:
     - role: Head of Data
       time: 2020 - Present
-      company: Startup Hubs, San Francisco
+      company: HappyFresh, Jakarta, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+         - Lead the data team consisting of data engineers, BI analyst and Data Analyst.
+         - Set up the architecture of end to end data pipeline.
+         - Supervised the development and deployment of various machine learning models.
+         - Supervised the development of complex reporting dashboards for business stakeholders.
     - role: Senior Data Scientist
       time: 2019 - 2020
-      company: Startup Hubs, San Francisco
+      company: Bukalapak, Jakarta, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+         - Lead the data science fraud initiative in Bukalapak.
+         - Used predictive analytics to detect and prevent fraud.
+         - Set up the direction of the data team in the growth tribe of Bukalapak.
+         - Created and maintained high level monitoring dashboard for stakeholders.
+         - Developed data warehouse pipeline for critical metrics.
+         - Carried out data pipeline migration to Google BigQuery.
     - role: Lead Data Scientist
       time: 2018 - 2019
-      company: Google, London
+      company: Bukalapak, Jakarta, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+         - Lead a group of data scientists in the Bukalapak Growth Tribe data team.
+         - Queried data and carrying out adhoc data analysis requests.
+         - Created dashboards for high level data monitoring.
+         - Carried out and analyzing the results of various A/B tests.
+         - Carried out customer segmentation analysis to maximize the impact of segmented promos.
+         - Flagged fraud transactions using network analysis and various anomaly detection techniques.
+         - Optimized budgets for Bukalapak digital channel ads.
+         - Optimized Bukalapak product feeds in Facebook and Google Shopping to maximize conversion rate.
     - role: Data Scientist
       time: 2018 - 2018
-      company: Amazon, London
+      company: Bukalapak, Jakarta, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Queried data and carried out adhoc data analysis requests.
+          - Created dashboards for high level data monitoring.
     - role: Research Assistant
       time: 2010 - 2017
       company: University of Delaware, Newark DE, USA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developed and applied numerical methods from the first principle based on many-body perturbation
+          and coupled cluster theory to calculate properties of heavy atoms with a very high precision (less
+          than 1% error).
+          - Developed and applied a numerical method based on path integral Monte Carlo technique to simulate
+          and evaluate the physical properties of liquid Helium in nanopores at temperatures close to 0 K.
+          - Carried out quantitative comparisons of theoretical data with existing experimental measurements
+          using error analysis to study and optimize the current computational methods.
+          - Wrote computer programs to implement computational methods using FORTRAN and C++.
+          - Parsed large text and binary files to extract data using Fortran and Python.
+          - Extracted numerical values from published 2D graphs using g3data.
+          - Created 2D and 3D graphs to view and analyze data using Python, Gnuplot, and Origin.
+          - Write computer codes for interpolation (B-spline and Lagrange) and fitting (least square and Markov
+          Chain Monte Carlo) using Python.
+          - Compared simulation data with the prediction of mathematical models using implementation of
+          interpolation and fitting.
+          - Drew 2D vector and 3D computer graphics to visualize data and schematics using Inkscape and
+          Autodesk inventor.
+          - Ran computational programs in high-performance computing (HPC) environment using UNIX shell
+          script.
+          - Published results in peer-reviewed scientific journals.
+          - Presented posters and talks in American Physical Society (APS) conferences.
     - role: Teaching Assistant
       time: 2010 - 2017
       company: University of Delaware, Newark DE, USA
       details: |
-        Assisting with laboratory or discussion sections of various undergraduate Physics courses in the department
-        of Physics, University of Delaware.
           - Taught physics concepts in the discussion and laboratory sections of various physics courses.
           - Assisted students to solve physics problems at undergraduate levels.
           - Assisted students in obtaining data from basic physics experiments and analyze them with 
@@ -168,6 +164,7 @@ skills:
 
     toolset:
       - name: Python & Django
+        detail: blablabla
         level: 98%
 
       - name: Javascript & jQuery
