@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -17,7 +17,7 @@ sidebar:
     website: #do not add http://
     linkedin: zuhrianda
     github: zuhrianda
-    telegram: # add your nickname without '@' sign
+    telegram: zuhrianda # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -33,50 +33,42 @@ sidebar:
         level: Professional
 
     interests:
-      - item: 
+      - item: Philosophy
         link:
 
-      - item: 
+      - item: Strategy
         link:
 
-      - item: 
+      - item: Martial Arts 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a full stack data scientist with 10+ years of experience working in both academia and industry.
+      I am a highly curious and a fast learner, with a passion of understanding the theories behind the applications. 
+      I have broad range of skills from my past experience working as a teacher, a researcher, a programmer and a data specialist.
+      During my spare time, I enjoy contemplating about the meaning of life.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Physics
+      university: University of Delaware, USA
+      time: 2010 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Awarded with teaching and research assistanship during the graduate studies in the University of Delaware.
+    - degree: MSc in Physics
+      university: University of Trieste, Italy
+      time: 2006 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Awarded with TRIL Fellowship from the Italian Government to pursue Master studies in the University of Trieste.
+    - degree: BSc in Physics
+      university: University of Indonesia, Indonesia
+      time: 2001 - 2005
+      details: 
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Head of Data
+      time: 2020 - Present
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -90,8 +82,23 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Senior Data Scientist
+      time: 2019 - 2020
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Lead Data Scientist
+      time: 2018 - 2019
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -101,8 +108,8 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Data Scientist
+      time: 2018 - 2018
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -112,32 +119,27 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - role: Research Assistant
+      time: 2010 - 2017
+      company: University of Delaware, Newark DE, USA
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Teaching Assistant
+      time: 2010 - 2017
+      company: University of Delaware, Newark DE, USA
+      details: |
+        Assisting with laboratory or discussion sections of various undergraduate Physics courses in the department
+        of Physics, University of Delaware.
+          - Taught physics concepts in the discussion and laboratory sections of various physics courses.
+          - Assisted students to solve physics problems at undergraduate levels.
+          - Assisted students in obtaining data from basic physics experiments and analyze them with 
+          basic statistical techniques such as error analysis and linear regression.
 
 publications:
     title: Publications
@@ -183,5 +185,4 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
