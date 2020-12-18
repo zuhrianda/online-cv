@@ -45,10 +45,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a full stack data scientist with 10+ years of experience working in both academia and industry.
-      I am a highly curious and a fast learner, with a passion of understanding the theories behind the applications. 
-      I have broad range of skills from my past experience working as a teacher, a researcher, a programmer and a data specialist.
-      During my spare time, I enjoy contemplating about the meaning of life.
+      A full stack data scientist with 10+ years of academic research experience, 3+ years of end to end data science experience.
+      Highly curious and fast learner, with a passion of understanding the theories behind the applications. 
+      Interested in solving real life problems using technology and data science.
       
 education:
     - degree: PhD in Physics
@@ -71,11 +70,11 @@ experiences:
       time: 2020 - Present
       company: HappyFresh, Jakarta, Indonesia
       details: |
-         - Lead the data team consisting of data engineers, BI analyst and Data Analyst.
-         - Set up the architecture of end to end data pipeline.
-         - Supervised and improved the quality of data analysis made by the team.
-         - Supervised the development and deployment of various machine learning models.
-         - Supervised the development of complex reporting dashboards for business stakeholders.
+         - Build a high quality team of data engineers, data analysts and data scientists.
+         - Standardized workflow to increase the quality of the data team deliverables
+         - Architected an efficient data infrastructure to enable value generations from big data.
+         - Lead the development and deployment of various machine learning models to optimize HappyFresh business processes.
+         - Lead the development of HappyFresh data single source of truth for better data governance.
          
          Tools: SQL, Python, pandas, matplotlib, sklearn, Airflow, Spark, Hive, Presto, Redash, Tableau, Qubole, AWS.
     - role: Senior Data Scientist
